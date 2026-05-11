@@ -33,7 +33,7 @@ The project uses:
 
 # 📂 Project Structure
 
-
+```bash
 House_Price_Prediction/
 │
 ├── templates/
@@ -46,7 +46,7 @@ House_Price_Prediction/
 ├── Cleaned_data.csv
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
@@ -137,12 +137,12 @@ RidgeModel.pkl
 
 Example `requirements.txt`
 
-
+```bash
 Flask==3.1.0
 pandas==2.2.3
 numpy==2.2.4
 scikit-learn==1.6.1
-
+```
 
 ---
 
